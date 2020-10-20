@@ -1,4 +1,4 @@
-# ransomware_Detection
+# Ransomware_Detection
 
 In this project we built a tool to protect against ransomware attacks.
 The tool runs inside a specific folder, and checks that no file has been encrypted or
